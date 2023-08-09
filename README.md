@@ -16,6 +16,7 @@ considered the documents only if they were read for a considerate time and docum
 glanced through are not considered as read.
 
 Here are the python libraries that are used:
+
 1)Pandas dataframe is used to perform data handling.
 2) Matplotlib is used to plot the histogram.
 3) Tkinter is used to build the GUI.
