@@ -14,3 +14,12 @@ matplot libraries were used for visualizing and data analysis of the document tr
 A key assumption is made in this development to identify also like documents, we have 
 considered the documents only if they were read for a considerate time and documents 
 glanced through are not considered as read.
+
+Here are the python libraries that are used:
+o Pandas dataframe is used to perform data handling.
+o Matplotlib is used to plot the histogram.
+o Tkinter is used to build the GUI.
+o Pycountry_convert is used to retrieve continent details for a country.
+o User_agents is used to parse the string data.
+o PIL is used to handle images.
+o Graphviz is used to draw the graph.
